@@ -32,7 +32,7 @@ public class TestUtils {
         return record;
     }
 
-    public static MedicalRecordDto getSamplePatientRecordDto() {
+    public static MedicalRecordDto getSampleMedicalRecordDto() {
         MedicalRecordDto record = new MedicalRecordDto();
         record.setCode("code");
         record.setCodeListCode("codelist");

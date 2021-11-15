@@ -33,7 +33,7 @@ You need the following installed in your system:
 $ mvn spring-boot:build-image
 ```
 ```bash
-$ docker run -it -p8080:8080 patient-record-system:0.0.1-SNAPSHOT
+$ docker run -it -p8080:8080 medical-record-system:0.0.1-SNAPSHOT
 ```
 
 2. To run as plain spring boot application
